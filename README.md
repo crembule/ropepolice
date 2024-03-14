@@ -14,33 +14,35 @@ Amazing Strange Rope Police - Vice Spider Vegas was made by HGames-ArtWorks.
 
 Features
 
-Visually stunning HD 3D graphics
-Fully functional Spiderman character that can shoot web to swing, climb building, and even shoot a powerful laser
-Various Spiderman costumes to use
-Missions to accomplish
-Free to roam
-Platforms
+- Visually stunning HD 3D graphics
+- Fully functional Spiderman character that can shoot web to swing, climb building, and -even shoot a powerful laser
+- Various Spiderman costumes to use
+- Missions to accomplish
+- Free to roam
+- Platforms
 
 Amazing Strange Rope Police - Vice Spider Vegas is a web browser game. It's also available as an Android app.
+
 Controls
 
-WASD or arrow keys: move
-T: open nearby garage
-Q: shoot web
-Right click: laser
-Left click: shoot or punch
-Space bar: jump
-Left shift: run
-X: switch weapons
-F: open car
-R: open nearby shop
-G: grenade
-Z: switch grenade
-C: switch vehicle camera
+- WASD or arrow keys: move
+- T: open nearby garage
+- Q: shoot web
+- Right click: laser
+- Left click: shoot or punch
+- Space bar: jump
+- Left shift: run
+- X: switch weapons
+- F: open car
+- R: open nearby shop
+- G: grenade
+- Z: switch grenade
+- C: switch vehicle camera
+
 Garbage truck controls
 
-Pitchfork up: Z
-Pitchfork down: X
-Dump start: Q
-Dump end: E
-Lift container: space
+- Pitchfork up: Z
+- Pitchfork down: X
+- Dump start: Q
+- Dump end: E
+- Lift container: space
